@@ -11,3 +11,6 @@ The original project was developed collaboratively by a three-person team to ana
 - Repository organization and documentation for this portfolio version
 
 The remaining analyses and final deliverables were completed collaboratively as part of the team project.
+
+The original project process can be found here: 
+https://github.com/501Capstone/Data501.git 
